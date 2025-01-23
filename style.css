@@ -46,10 +46,10 @@ ul li a:hover{
 
 
     .main img {
-        max-width: 10%;
+        max-width: 20%;
         margin-bottom: 2px;
         padding-left: 5%;
-        opacity: 0.5;
+        opacity: 3.5;
     }
 
     .slogan {
